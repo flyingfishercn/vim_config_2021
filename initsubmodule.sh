@@ -25,3 +25,4 @@ git submodule add https://github.com/vim-scripts/buffergrep.git  bundle/buffergr
 git submodule add https://github.com/vim-scripts/taglist.vim.git  bundle/taglist.vim
 git submodule add https://github.com/vim-scripts/winmanager.git  bundle/winmanager
 git submodule add https://github.com/vim-scripts/ctags.vim.git  bundle/ctags.vim
+git submodule add https://github.com/easymotion/vim-easymotion.git bundle/vim-easymotion
