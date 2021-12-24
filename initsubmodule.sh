@@ -6,7 +6,6 @@ git submodule add https://github.com/vim-scripts/vimspell.git bundle/vimspell
 git submodule add https://github.com/vim-scripts/bandit.vim.git bundle/bandit.vim
 git submodule add https://github.com/vim-scripts/bufexplorer.zip.git bundle/bufexplorer.zip
 git submodule add https://github.com/vim-scripts/CRefVim.git bundle/CRefVim
-git submodule add https://github.com/vim-scripts/cscope.vim.git bundle/cscope.vim
 git submodule add https://github.com/vim-scripts/c.vim.git  bundle/c.vim
 git submodule add https://github.com/vim-scripts/genutils.git  bundle/genutils
 git submodule add https://github.com/vim-scripts/lookupfile.git  bundle/lookupfile
